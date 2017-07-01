@@ -1,4 +1,4 @@
-# vue-quiz
+# vuejs-quiz
 A repository for study purposes only. It is focused on Vue Animations.
 
 > A Vue.js project
